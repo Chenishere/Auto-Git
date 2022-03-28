@@ -32,7 +32,7 @@ ssh-keygen -b 2048 -t rsa
 ```
 Put your public ssh key in the file `authorized_keys`,and your private key in the github's secret as `SSH_PRIVATE_KEY`.
 
-Congratulation !! You can now you can enjoy your automated deployment on your website server ! 
+Congratulation !! You can now enjoy your automated deployment on your website server ! 
 
 
 ![alt Autogit](https://torrefacteur.co/wp-content/uploads/2017/05/applause.jpg)
